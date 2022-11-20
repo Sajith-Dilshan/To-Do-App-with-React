@@ -17,6 +17,7 @@ function TodoList() {
         {todos.map((item, index) => {
           return (
             <TodoItem
+            index={index + 1}
               key={item.id}
               todo={item}
             />

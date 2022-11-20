@@ -18,7 +18,7 @@ function TodoInput({todos, setTodos}) {
   }
 
   return (
-    <div>
+    <div className="todo-input-wrapper">
       <input 
       type="text" 
       value={todo} 
