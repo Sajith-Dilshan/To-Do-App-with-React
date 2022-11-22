@@ -17,7 +17,9 @@ function TodoList() {
         {todos.map((item, index) => {
           return (
             <TodoItem
-            index={index + 1}
+              todos={todos} 
+              setTodos={setTodos} 
+              index={index + 1}
               key={item.id}
               todo={item}
             />
@@ -28,4 +30,4 @@ function TodoList() {
   );
 }
 
-export default TodoList
+export default TodoList;
