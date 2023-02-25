@@ -17,8 +17,8 @@ Simple To-Do Application
  * For Installing the node modules, Enter the below code in terminal <br>
   <code>npm install </code>
   
-  * Next, you should have to install heroicons package using below command,  <br> 
-   <code>npm i @heroicons/react </code>
+  * Next, you should have to install heroicons version 1 package using below command,  <br> 
+   <code>npm i npm i @heroicons/react@v1 </code>
 
 * Build and Run!  <br>
 <code>npm start</code>
