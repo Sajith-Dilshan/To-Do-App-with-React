@@ -4,7 +4,7 @@
 Simple To-Do Application
 
 
-[Go to live](https://sajith-dilshan.github.io/Google-Custom-Search-Engine/)
+[Go to live]()
 
 
 
@@ -18,7 +18,7 @@ Simple To-Do Application
   <code>npm install </code>
   
   * Next, you should have to install heroicons version 1 package using below command,  <br> 
-   <code>npm i npm i @heroicons/react@v1 </code>
+   <code>npm i @heroicons/react@v1 </code>
 
 * Build and Run!  <br>
 <code>npm start</code>
